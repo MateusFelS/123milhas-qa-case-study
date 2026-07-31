@@ -62,7 +62,6 @@ Os cenários serão priorizados considerando impacto na experiência do usuário
 | Navegador | Brave |
 | Ambiente | Ambiente público disponível ao usuário |
 | URL | https://www.123milhas.com/ |
-| Rota testada | São Paulo (Todos os Aeroportos) → Belo Horizonte (Todos os Aeroportos) |
 
 ---
 
