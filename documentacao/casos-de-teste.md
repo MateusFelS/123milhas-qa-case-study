@@ -6,7 +6,7 @@
 |----|---------|--------------|----------------|---------------------|-------------------|--------|------------|
 | CT-001 | Realizar busca válida entre origem e destino | Usuário na página inicial | Origem: São Paulo (Todos os Aeroportos) / Destino: Belo Horizonte (Todos os Aeroportos) | Sistema deve retornar a lista de resultados disponíveis para a rota | Resultados retornados corretamente para a rota informada | ✅ Passou | Alta |
 | CT-002 | Realizar busca somente de ida | Usuário na página inicial | Selecionar opção "Somente ida" | Sistema deve ocultar o campo de data de volta e buscar normalmente | Comportamento correspondeu ao esperado | ✅ Passou | Média |
-| CT-003 | Alterar número de passageiros | Usuário na página inicial | 1 adulto (padrão) | Sistema deve manter a seleção e refletir no resumo da busca | Passageiro exibido corretamente no resumo | ✅ Passou | Média |
+| CT-003 | Alterar número de passageiros | Usuário na página inicial | 2 adultos | Sistema deve manter a seleção e refletir no resumo da busca | Passageiro exibido corretamente no resumo | ✅ Passou | Média |
 
 ---
 
