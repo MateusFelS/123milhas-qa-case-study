@@ -15,7 +15,7 @@
 | ID | Cenário | Pré-condição | Dados de Teste | Resultado Esperado | Resultado Obtido | Status | Prioridade |
 |----|---------|--------------|----------------|---------------------|-------------------|--------|------------|
 | CT-004 | Selecionar data de ida e volta válidas | Usuário no campo de datas | Ida: 31/07/26 / Volta: 01/08/26 | Sistema deve aceitar e exibir as datas selecionadas | Datas aceitas e refletidas corretamente na busca | ✅ Passou | Alta |
-| CT-005 | Selecionar data de ida e, em seguida, data de volta em sequência | Usuário no campo de datas | Clicar em "Ida" e depois em "Volta" rapidamente | Calendário anterior deve fechar antes de abrir o próximo, sem sobreposição visual | Os dois calendários (mês de ida e mês de volta) ficaram abertos e sobrepostos na tela simultaneamente | ⚠️ Passou com ressalva | Média |
+| CT-005 | Selecionar data de ida e, em seguida, data de volta em sequência | Usuário no campo de datas | Clicar em "Ida" e depois em "Volta" rapidamente | Calendário anterior deve fechar antes de abrir o próximo, sem sobreposição visual | Os dois calendários (mês de ida e mês de volta) ficaram abertos e sobrepostos na tela simultaneamente | ❌ Falhou | Média |
 | CT-006 | Selecionar data de volta anterior à data de ida | Usuário no campo de datas | Ida: 31/07/26 / tentativa de volta anterior | Sistema deve impedir a seleção de datas inconsistentes | Sistema não permitiu selecionar data de volta anterior à ida | ✅ Passou | Alta |
 
 ---
