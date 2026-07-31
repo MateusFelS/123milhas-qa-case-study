@@ -4,7 +4,7 @@
 
 | Campo | Valor |
 |-------|-------|
-| ID | BUG-002 |
+| ID | BUG-001 |
 | Módulo | Busca de Passagens |
 | Funcionalidade | Seleção de Datas |
 | Severidade | Média |
