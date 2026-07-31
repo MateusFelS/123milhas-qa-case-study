@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/33e28523-1cbd-4b70-b6a4-0b2700823e99
 # BUG-001 — Calendários de seleção de data são exibidos sobrepostos
 
 ## Informações
@@ -60,4 +58,4 @@ A sobreposição dos calendários dificulta a seleção das datas, pode gerar cl
 
 ## Evidências
 
-- [Vídeo do Bug](Uploading BUG-001-calendarios-selecao-data-sobrepostos.mp4…)
+- [Vídeo do Bug](https://github.com/user-attachments/assets/33e28523-1cbd-4b70-b6a4-0b2700823e99)
