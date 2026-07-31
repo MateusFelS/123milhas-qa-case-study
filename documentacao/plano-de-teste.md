@@ -111,4 +111,4 @@ Os testes serão executados seguindo a ordem:
 
 - Plano de Testes
 - Casos de Teste
-- Registro de Achados (bugs e melhorias)
+- Registro de Achados (bug)
