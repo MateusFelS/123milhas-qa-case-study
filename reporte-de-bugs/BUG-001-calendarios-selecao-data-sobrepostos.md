@@ -58,4 +58,5 @@ A sobreposição dos calendários dificulta a seleção das datas, pode gerar cl
 
 ## Evidências
 
-- [Vídeo do Bug](https://github.com/user-attachments/assets/33e28523-1cbd-4b70-b6a4-0b2700823e99)
+- Vídeo: [bug-001-calendarios-sobrepostos.mp4](../evidencias/bug-001-calendarios-sobrepostos.mp4)
+- Print: ![Calendários sobrepostos](../evidencias/bug-001-print.png)
