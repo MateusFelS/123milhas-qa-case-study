@@ -59,10 +59,6 @@ documentacao/
 reporte-de-bugs/
 └── BUG-001-calendarios-de-selecao-de-data-sao-exibidos-sobrepostos.md 
 
-evidencias/
-├── BUG-001-calendarios-selecao-data-sobrepostos.mp4
-└── BUG-001-print.png
-
 README.md
 ```
 
