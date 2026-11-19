@@ -12,7 +12,7 @@
 | Ambiente | Ambiente público disponível ao usuário |
 | Navegador | Brave |
 | Sistema Operacional | Windows 11 |
-| Status | Aberto |
+| Status | Fechado (corrigido) |
 
 ---
 
